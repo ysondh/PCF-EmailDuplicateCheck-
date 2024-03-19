@@ -15,7 +15,7 @@ It replaces the standard out-of-the-box email control for the contact entity, pr
 
 - **Real-time Duplicate Detection**: The control checks the email address entered against the email address field on the contact entity in real-time.
   
-- **Single Entity Support**: Currently, the control only supports duplicate detection within the contact entity using the `emailaddress1` field. Multi-entity support and customizable field mapping will be available in future releases.
+- **Single Entity Support**: Currently, the control only supports duplicate detection within the contact entity using the `emailaddress1` field. Multi-entity support and customizable field mapping will be available in future releases along with customisable error messages.
   
 ## Installation
 
@@ -28,7 +28,7 @@ To install the PCF Email Address Duplicate Detection Control in your Model-Drive
 
 ## Usage
 
-Once installed and configured, the PCF Email Address Duplicate Detection Control seamlessly integrates into your Model-Driven App. Simply use it in place of the standard email control on the contact entity forms. As users enter email addresses, the control will automatically check for duplicates within the contact entity using the `emailaddress1` field and provide feedback accordingly.
+Once installed and configured, the PCF Email Address Duplicate Detection Control, simply use it in place of the standard email control on the contact entity forms. As users enter email addresses, the control will automatically check for duplicates within the contact entity using the `emailaddress1` field and provide feedback accordingly.
 
 
 ## Support
