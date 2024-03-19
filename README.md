@@ -15,9 +15,7 @@ It replaces the standard out-of-the-box email control for the contact entity, pr
 
 - **Real-time Duplicate Detection**: The control checks the email address entered against the email address field on the contact entity in real-time.
   
-- **Single Entity Support**: Currently, the control only supports duplicate detection within the contact entity using the `emailaddress1` field. Multi-entity support and customisable field mapping will be available in future releases.
-
-- **Customisable Error Messages**: Contorl currently has a static error response to duplicates. Future release will enable the ability to add your own error messages to the PCF.  
+- **Single Entity Support**: Currently, the control only supports duplicate detection within the contact entity using the `emailaddress1` field. Multi-entity support and customisable field mapping will be available in future releases.  
 ## Installation
 
 To install the PCF Email Address Duplicate Detection Control in your Model-Driven App, follow these steps:
