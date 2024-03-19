@@ -33,4 +33,4 @@ Once installed and configured, the PCF Email Address Duplicate Detection Control
 
 ## Support
 
-For questions, issues, or feedback, please open a [GitHub issue](https://github.com/your-username/your-repository/issues) or reach out to the maintainers directly.
+For questions, issues, or feedback, please open a [GitHub issue](https://github.com/ysondh/PCF-EmailDuplicateCheck/issues).
