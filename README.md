@@ -1,6 +1,7 @@
 # PCF Email Address Duplicate Detection Control
 
-This PCF (PowerApps Component Framework) control is designed specifically for Model-Driven Apps within the Power Platform environment. It replaces the standard out-of-the-box email control for the contact entity, providing real-time duplicate detection functionality.
+This PCF (PowerApps Component Framework) control is designed specifically for Model-Driven Apps within the Power Platform environment. This control utilises fLuentUI Component Packages to replicate the Model Driven App Interface. 
+It replaces the standard out-of-the-box email control for the contact entity, providing real-time duplicate detection functionality.
 
 
 
