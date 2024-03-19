@@ -6,8 +6,8 @@ It replaces the standard out-of-the-box email control for the contact entity, pr
 
 
 
-<img width="353" alt="image" src="https://github.com/ysondh/PCF-EmailDuplicateCheck-/assets/77232067/4a865ab8-3754-434a-9ae7-3b3bfc27dc94">
 
+<img width="353" alt="image" src="https://github.com/ysondh/PCF-EmailDuplicateCheck-/assets/77232067/9bf217fc-fc1c-4110-b3bb-68d2269c6374">
 
 
 
